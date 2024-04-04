@@ -1,5 +1,5 @@
 # Sharks
-A Microsoft Excel board game in which you, a little fish, must make it from the left side to the right side of the board while avoiding both the sharks, who are hungry, and where they have already swam.
+A Microsoft Excel board game utilizing VBA in which you, a little fish, must make it from the left side to the right side of the board while avoiding both the sharks, who are hungry, and where they have already swam.
 Both you and the sharks are unable to move to squares you have already been to.
 
 Press "Start" to start a game.
